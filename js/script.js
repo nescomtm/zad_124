@@ -17,4 +17,3 @@ function getJoke() {
   xhr.send();
 }
 
-var response = JSON.parse(xhr.response);
